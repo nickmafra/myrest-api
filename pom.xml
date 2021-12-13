@@ -13,7 +13,6 @@
 		<module>myrest-api</module>
 		<module>myrest-api-server</module>
 		<module>myrest-api-feign-client</module>
-		<module>myrest-soap-api</module>
 	</modules>
 
 </project>
